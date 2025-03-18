@@ -3,6 +3,9 @@
 A simple tool to extract the history from browsers to exfiltrate them using Discord. Built for **security research** and **educational purposes only**, not for shady stuff.
 You can grab it and integrate it into your own projects.
 
+![historyLover](https://github.com/user-attachments/assets/3edecbb3-b4ed-4cb9-b252-996895bfa65b)
+
+
 ## Why Discord❓
 
 Honestly? Because it’s kinda cool. Plus, Discord is rarely blocked in corporate environments... not that you should use it there! (Seriously, **don’t do anything dumb.**)
